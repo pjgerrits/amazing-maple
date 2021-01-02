@@ -26,6 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image_repeat: no-repeat
   - type: grid_section
     template: grid_section
     title: Image Grid
